@@ -1,0 +1,5 @@
+Word,Translation,Correct,Date,Reminder
+Livre,Book,True,2023-02-24,2023-03-03
+Table,Table,False,2023-02-24,2023-02-24
+Livre,Book,True,2023-02-24,2023-03-03
+Table,Table,True,2023-02-24,2023-03-03
