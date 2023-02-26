@@ -20,6 +20,7 @@ class Window(customtkinter.CTk):
         self.title("Flashcards App")
         self.geometry("1168x760")
         self.resizable(False, True)
+        self.iconbitmap("icon.ico")
 
 
         # Container to stack the pages

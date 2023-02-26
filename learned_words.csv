@@ -1,8 +1,8 @@
 Word,Translation,Correct,Date,Reminder
-Livre,Book,True,2023-02-24,2023-03-03
-Table,Table,False,2023-02-24,2023-02-24
-Livre,Book,True,2023-02-24,2023-03-03
-Table,Table,True,2023-02-24,2023-03-03
+Livre,Book,True,2023-01-24,2023-03-03
+Table,Table,False,2023-01-24,2023-01-24
+Livre,Book,True,2023-01-24,2023-03-03
+Table,Table,True,2023-01-24,2023-03-03
 je,I,True,2023-02-24,2023-03-03
 de,of,False,2023-02-23,2023-02-25
 est,is,True,2023-02-5,2023-03-03
@@ -10,3 +10,20 @@ pas,not,True,2023-02-5,2023-03-03
 le,the,True,2023-02-01,2023-03-03
 vous,you,True,2023-02-24,2023-03-03
 la,the,True,2023-02-24,2023-03-03
+Livre,Book,True,2023-02-24,2023-03-03
+Stylo,Pen,True,2023-02-24,2023-03-03
+Un Livre,A Book,False,2023-02-24,2023-02-25
+je,I,True,2023-03-24,2023-03-03
+de,of,True,2023-03-24,2023-03-03
+est,is,False,2023-03-24,2023-02-25
+pas,not,True,2023-02-24,2023-03-03
+le,the,False,2023-02-26,2023-02-25
+chise,Chair,True,2023-02-25,2023-03-04
+chaise,Chair,True,2023-02-25,2023-03-04
+La Porte,The Door,False,2023-02-25,2023-02-26
+je,I,True,2023-02-26,2023-03-05
+de,of,True,2023-02-26,2023-03-05
+est,is,True,2023-02-26,2023-03-05
+pas,not,True,2023-02-26,2023-03-05
+le,the,False,2023-02-26,2023-02-27
+vous,you,True,2023-02-26,2023-03-05

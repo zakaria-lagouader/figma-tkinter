@@ -91,7 +91,7 @@ class EditCardPage(customtkinter.CTkScrollableFrame):
         # Page Title
         self.page_title = PageTitle(
             master=self,
-            text="Add Card"
+            text="Edit Card"
         )
 
         self.word_input = Input(
